@@ -1,0 +1,1 @@
+document.getElementById("titles").style.color = "yellow"
